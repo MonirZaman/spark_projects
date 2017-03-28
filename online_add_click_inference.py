@@ -3,7 +3,7 @@
 
 # ![ML Logo](http://spark-mooc.github.io/web-assets/images/CS190.1x_Banner_300.png)
 # # **Click-Through Rate Prediction Lab**
-# #### This lab covers the steps for creating a click-through rate (CTR) prediction pipeline.  You will work with the [Criteo Labs](http://labs.criteo.com/) dataset that was used for a recent [Kaggle competition](https://www.kaggle.com/c/criteo-display-ad-challenge).
+# #### This lab covers the steps for creating a click-through rate (CTR) prediction pipeline. We study the [Criteo Labs](http://labs.criteo.com/) dataset that was used for a recent [Kaggle competition](https://www.kaggle.com/c/criteo-display-ad-challenge).
 # #### ** This lab will cover: **
 # +  ####*Part 1:* Featurize categorical data using one-hot-encoding (OHE)
 # +  ####*Part 2:* Construct an OHE dictionary
